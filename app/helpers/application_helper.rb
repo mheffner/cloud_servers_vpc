@@ -91,6 +91,7 @@ module ApplicationHelper
 			[69, "Ubuntu 10.10 (maverick)"],
 			[49, "Ubuntu 10.04 LTS (lucid)"],
 			[14362, "Ubuntu 9.10 (karmic)"],
+			[10, "Ubuntu 8.04 LTS (hardy)"],
 			[28, "Windows Server 2008 R2 x64"],
 			[58, "Windows Server 2008 R2 x64 SQL Server"]
 		]
